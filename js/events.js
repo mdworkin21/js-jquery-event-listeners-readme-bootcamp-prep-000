@@ -6,6 +6,13 @@ function getIt(){
   })
 }
 
+function frameIt(){
+  $('').on('', function(){
+
+    
+  })
+}
+
 
 $(document).ready(function(){
 
