@@ -22,7 +22,7 @@ function submitIt(){
 function pressIt(){
   $(document).on("keypress", function(){
     if(key.which === 71){
-    alert("The g key was pressed")}
+    alert("g was pressed")}
 
   })
 }
