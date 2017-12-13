@@ -7,9 +7,9 @@ function getIt(){
 }
 
 function frameIt(){
-  $('').on('', function(){
+  $('img').on('load', function(){
 
-    
+
   })
 }
 
